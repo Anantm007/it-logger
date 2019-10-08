@@ -8,32 +8,11 @@
       "tech": "Sam Smith"
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "A new log",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
-    },
-    {
-      "message": "asddsfd",
-      "attention": false,
       "tech": "John Doe",
-      "date": "2019-10-08T15:24:33.804Z",
-      "id": 4
-    },
-    {
-      "message": "xxxx",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-10-08T15:25:07.778Z",
-      "id": 5
+      "date": "2019-10-08T15:34:45.451Z",
+      "id": 3
     }
   ],
   "techs": [
