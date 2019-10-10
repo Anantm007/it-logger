@@ -30,16 +30,6 @@
       "id": 3,
       "firstName": "Anant",
       "lastName": "Mathur"
-    },
-    {
-      "firstName": "dummy",
-      "lastName": "hamilton",
-      "id": 4
-    },
-    {
-      "firstName": "abcd",
-      "lastName": "efgh",
-      "id": 5
     }
   ]
 }
