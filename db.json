@@ -8,11 +8,11 @@
       "tech": "Sam Smith"
     },
     {
-      "message": "A new log",
+      "message": "PC 004 not booting up",
       "attention": true,
       "tech": "John Doe",
-      "date": "2019-10-08T15:34:45.451Z",
-      "id": 3
+      "date": "2019-10-10T11:10:28.497Z",
+      "id": 2
     }
   ],
   "techs": [
